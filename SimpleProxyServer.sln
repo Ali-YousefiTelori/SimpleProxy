@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProxyServer", "SimpleProxyServer\SimpleProxyServer.csproj", "{7DAE2627-B766-4C43-A763-F4E357EE795A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProxyClient", "SimpleProxyClient\SimpleProxyClient.csproj", "{7D3B21AB-20E6-4C9F-833A-E70EB1142B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProxyEncryption", "SimpleProxyEncryption\SimpleProxyEncryption.csproj", "{B78795AF-2111-4ED2-847E-F6AA493E3FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DAE2627-B766-4C43-A763-F4E357EE795A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAE2627-B766-4C43-A763-F4E357EE795A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAE2627-B766-4C43-A763-F4E357EE795A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAE2627-B766-4C43-A763-F4E357EE795A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3B21AB-20E6-4C9F-833A-E70EB1142B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3B21AB-20E6-4C9F-833A-E70EB1142B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3B21AB-20E6-4C9F-833A-E70EB1142B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3B21AB-20E6-4C9F-833A-E70EB1142B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78795AF-2111-4ED2-847E-F6AA493E3FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78795AF-2111-4ED2-847E-F6AA493E3FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78795AF-2111-4ED2-847E-F6AA493E3FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78795AF-2111-4ED2-847E-F6AA493E3FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
